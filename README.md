@@ -1,7 +1,3 @@
-![stats](https://github-readme-stats.vercel.app/api?username=lastingman&hide_title=true&show_icons=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lastingman&hide_title=true)
-
 ### 👇 About me
 
 - 🔭 I'm currently working on `ipfs` `filecoin` `agile dev` `design system`
