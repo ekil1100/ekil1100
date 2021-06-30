@@ -1,6 +1,7 @@
-## 👇 About me
-
-- 🔭 I'm currently working on `react` `tooling` `agile` `design system`
-- 🌱 I'm currently learning `rust` `fp (love it)` `be a father`
-- 👯 I'm looking to collaborate on `anything related to web and devops`
-- 📫 How to reach me: me@likemail.io
+- I'm a front-end engineer live in Hangzhou. 
+- I love to write neat code, FP helps a lot.
+- I know a little bit devOps.
+- I am a Agile enthusiast.
+- I'm currently working on `react` `tooling` `agile` `design system`
+- I'm currently learning `rust` `fp (love it)` `be a father`
+- How to reach me: me@likemail.io
