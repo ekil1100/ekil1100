@@ -1,4 +1,4 @@
-- I'm a front-end engineer live in Hangzhou. 
+- I'm a Front-end Engineer live in Hangzhou. 
 - I love to write neat code, FP helps a lot.
 - I know a little bit devOps.
 - I am a Agile enthusiast.
