@@ -2,6 +2,5 @@
 - I love to write neat code, FP helps a lot.
 - I know a little bit devOps.
 - I am a Agile enthusiast.
-- I'm currently working on `react` `tooling` `agile` `design system`
-- I'm currently learning `rust` `fp (love it)` `be a father`
+- I'm currently learning `rust` `FP` `be a father`
 - How to reach me: me@likemail.io
