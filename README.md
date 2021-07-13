@@ -1,6 +1,6 @@
 # 👋 ✌️ 🤟
 
-- A front-end fork based in Hangzhou. 
+- A front-end based in Hangzhou. 
 - Love to write neat code, FP helps a lot.
 - With A little bit devOps.
 - Agile enthusiast.
