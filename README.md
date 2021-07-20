@@ -1,6 +1,6 @@
 # 👋 ✌️ 🤟
 
-- A front-end based in Hangzhou. 
+- A front-end developer based in Hangzhou. 
 - Love to write neat code, love FP.
 - With A little bit devOps knowledge.
 - Agile enthusiast.
