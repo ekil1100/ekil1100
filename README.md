@@ -10,4 +10,4 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ekil&layout=compact&theme=onedark&langs_count=6)](https://wakatime.com/@ekil)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ekilzen&layout=compact&theme=onedark&langs_count=6)
+<!-- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ekilzen&layout=compact&theme=onedark&langs_count=6) -->
