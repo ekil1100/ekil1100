@@ -1,6 +1,6 @@
-# 👋 ✌️ 🤟
+# 👋 Hi, I'm Like
 
-- A front-end developer based in Hangzhou. 
+- A full-stack developer. 
 - Love to write neat code, love FP.
 - With A little bit devOps knowledge.
 - Agile enthusiast.
