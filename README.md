@@ -2,7 +2,7 @@
 
 - A full-stack developer. 
 - Love to write neat code, love FP.
-- With A little bit devOps knowledge.
+- With A little bit DevOps knowledge.
 - Agile enthusiast.
 - Learning `rust` `haskell` `be a father`
 
