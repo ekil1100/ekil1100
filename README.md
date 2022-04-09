@@ -4,7 +4,7 @@
 - Love to write neat code, love FP.
 - With A little bit devOps knowledge.
 - Agile enthusiast.
-- Learning `rust` `FP` `be a father`
+- Learning `rust` `haskell` `be a father`
 
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=ekilzen&hide_title=true&show_icons=true&theme=onedark) -->
 
