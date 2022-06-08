@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Like
 
-- A full-stack developer. 
-- Love to write neat code, love FP.
-- With A little bit DevOps knowledge.
+- A software engineer. 
 - Agile enthusiast.
 - Learning `rust` `haskell` `be a father`
 
