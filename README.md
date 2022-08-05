@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Like
 
 - A software engineer. 
-- Agile enthusiast.
 - Learning `rust` `haskell` `be a father`
 
 <!-- ![info](https://github-readme-stats.vercel.app/api?username=ekilzen&hide_title=true&show_icons=true&theme=onedark) -->
