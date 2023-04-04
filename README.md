@@ -7,5 +7,3 @@
 <!-- <image style="transform: scale(0.7)" src="https://wakatime.com/share/@ekil/054f58e3-d56e-429d-8ae9-e04259a1d24b.svg" /> -->
 
 Hi, here is Like 👋, a software engineering / part-time designer.
-
-[Twitter](https://twitter.com/ekil1100)
