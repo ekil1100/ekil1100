@@ -8,4 +8,4 @@
 
 Hi, here is Like 👋, a software engineering / part-time designer.
 
-Follow me on [Twitter](https://twitter.com/ekil1100)
+[Twitter](https://twitter.com/ekil1100)
